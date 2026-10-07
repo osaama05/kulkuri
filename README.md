@@ -1,2 +1,1 @@
-# Kulkuri
-Traffic monitoring app
+# Kulkuri - Finland Transit Aggregator
